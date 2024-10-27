@@ -14,7 +14,7 @@ This is a **bold** text with a link to [GitHub](https://github.com).
 - [ ] Task 2
 `;
 
-export const ShowMarkdown = () => {
+const ShowMarkdown = () => {
   return (
     <>
       <div>123</div>
@@ -24,3 +24,5 @@ export const ShowMarkdown = () => {
     </>
   );
 };
+
+export default ShowMarkdown;
