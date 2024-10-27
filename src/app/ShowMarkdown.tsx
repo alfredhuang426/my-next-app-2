@@ -19,7 +19,7 @@ This is a **bold** text with a link to [GitHub](https://github.com).
 const ShowMarkdown = () => {
   return (
     <>
-      <div>123</div>
+      <div>123456</div>
       <Markdown>
         {markdown}
       </Markdown>
